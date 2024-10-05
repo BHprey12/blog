@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 a059d3fbebd92251dd9c48ecd0d2e16d5eff8b8e HPrey12 <fabriabruce@gmail.com> 1728111759 +0800	commit (initial): first commit
+a059d3fbebd92251dd9c48ecd0d2e16d5eff8b8e a059d3fbebd92251dd9c48ecd0d2e16d5eff8b8e HPrey12 <fabriabruce@gmail.com> 1728111759 +0800	Branch: renamed refs/heads/main to refs/heads/main
+a059d3fbebd92251dd9c48ecd0d2e16d5eff8b8e 0bf1a769397c4459e9fbd97048055b4f8f78ee12 HPrey12 <fabriabruce@gmail.com> 1728111880 +0800	commit: my commit
+0bf1a769397c4459e9fbd97048055b4f8f78ee12 1be0077dcb0b52f8eec399b3e53c9d3393c4bc73 HPrey12 <fabriabruce@gmail.com> 1728112137 +0800	commit: My blog october 5, 2024
+1be0077dcb0b52f8eec399b3e53c9d3393c4bc73 0bf1a769397c4459e9fbd97048055b4f8f78ee12 HPrey12 <fabriabruce@gmail.com> 1728112940 +0800	reset: moving to HEAD~1
